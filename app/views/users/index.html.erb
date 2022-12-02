@@ -1,0 +1,8 @@
+
+<h1>Users#index</h1>
+<% @users.each do |user| %>
+    <%= user.email %><br/>
+    <%= user.avatar %><br/>
+    <%= url_for(user.avatar) %>
+    <img src=<%= url_for(user.avatar) %> >
+<% end %>

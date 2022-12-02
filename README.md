@@ -3,7 +3,7 @@ Blog replacement site
 
 
 Plan of actions:
-1) set up models
+1) set up model(s)
 2) construct front end react with place holder cards
 3) finish back end set up
 4) add messaging and chat functionality
@@ -32,5 +32,13 @@ Blog idea:
 date, content
 
 
+Test authenticate on user without secure password
 
 
+
+
+Active Storage work:
+Access Key Id:
+AKIASTII4LR4J6G37NG5
+Secret Access Key:
+kVEUNvGJLmVAl2F36uWJzp1i1V3qla7NqzfDbMKR
