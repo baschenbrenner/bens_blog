@@ -37,8 +37,3 @@ Test authenticate on user without secure password
 
 
 
-Active Storage work:
-Access Key Id:
-AKIASTII4LR4J6G37NG5
-Secret Access Key:
-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
